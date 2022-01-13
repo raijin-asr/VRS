@@ -1,0 +1,11 @@
+
+-----------------------------------------------------------------------------------
+ Full Name       : admin admin
+ Vehicle Type    : Bike
+ Vehicle Number  : 1501
+ Pickup Location : admi
+ Pick up date    : 2011/11/11
+ Rental Duration : 11(days)
+ Advance Deposit : Rs.1/-
+ Return Location : admi
+ Your Return Date is: Year:2011   Month:11   Day:22

@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | Red     | 1256	    | 3850/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	1256
+						  -> Engine(CC)		: 	1250
+						  -> Kilometers 	: 	62,220 kms
+						  -> Make Year  	: 	2067 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 2 WD
+						  -> Anchal     	: 	Bagmati

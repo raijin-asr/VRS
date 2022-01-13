@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | White   | 2448	    | 5100/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	2448
+						  -> Engine(CC)		: 	2446
+						  -> Kilometers 	: 	63,912 kms
+						  -> Make Year  	: 	2060 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati

@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Bus Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  1.	  | White   | 3201	    | 9700/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Bus Number		: 	3201
+						  -> Engine(CC)		: 	3200
+						  -> Kilometers 	: 	33,010 kms
+						  -> Make Year  	: 	2064 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati

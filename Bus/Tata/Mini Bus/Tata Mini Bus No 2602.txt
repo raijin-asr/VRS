@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Bus Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | Black   | 2602	    | 8200/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Bus Number		: 	2602
+						  -> Engine(CC)		: 	2600
+						  -> Kilometers 	: 	45,123 kms
+						  -> Make Year  	: 	2066 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 2 WD
+						  -> Anchal     	: 	Bagmati

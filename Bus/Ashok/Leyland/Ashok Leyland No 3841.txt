@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Bus Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | Black   | 3841	    | 10,500/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Bus Number		: 	3841
+						  -> Engine(CC)		: 	3839
+						  -> Kilometers 	: 	47,023 kms
+						  -> Make Year  	: 	2065 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati

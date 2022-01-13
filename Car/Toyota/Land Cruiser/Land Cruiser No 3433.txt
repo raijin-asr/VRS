@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | Black   | 3433	    | 6100/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	3433
+						  -> Engine(CC)		: 	3431
+						  -> Kilometers 	: 	113,322 kms
+						  -> Make Year  	: 	2042 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati

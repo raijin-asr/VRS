@@ -1,0 +1,17 @@
+x			
+  									  FULL DETAILS
+  						   _________________________________________________________
+  						  |	  |	    |		    |		   	    |
+						  | S.No  | Color   | Car Number    | Price per day(In Rs.) |
+						  | ______|_________|_______________|_______________________|
+						  |	  |	    |		    |		   	    |
+						  |  2.	  | Black   | 1402	    | 4400/-	   	    |	
+						  |_______|_________|_______________|_______________________|
+
+						  -> Car Number		: 	1402
+						  -> Engine(CC)		: 	1400
+						  -> Kilometers 	: 	66,110 kms
+						  -> Make Year  	: 	2059 B.S
+						  -> Fuel		:	Diseal
+						  -> Transmission	:	Manual Gear - 4 WD
+						  -> Anchal     	: 	Bagmati
